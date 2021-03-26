@@ -33,4 +33,6 @@ def Calculadora():
               print "No se Permite la Division Entre 0"
               opc = int(input("Selecione Opcion\n"))
                print "Gracias por usar este programa"
+               print "Gracias por usar este programa"
+            
 Calculadora()
