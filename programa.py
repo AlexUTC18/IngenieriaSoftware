@@ -17,10 +17,10 @@ def Calculadora():
         x = int(input("Ingrese Numero\n"))
         y = int(input("Ingrese Otro Numero\n"))
         if (opc==1):
-            print "La Suma es:", x+y
+            print "resultado de la Suma es:", x+y
             opc = int(input("Selecione Opcion\n"))
         elif(opc==2):
-            print "La Resta es:",x-y
+            print "resultado de la Resta es:",x-y
             opc = int(input("Selecione Opcion\n"))
         elif(opc==3):
             print "La Multiplicacion es:",x*y
