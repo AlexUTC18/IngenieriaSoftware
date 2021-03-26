@@ -34,5 +34,6 @@ def Calculadora():
               opc = int(input("Selecione Opcion\n"))
                print "Gracias por usar este programa"
                print "Gracias por usar este programa"
+               print "Este es un nuevo cambio, viernes 26 de marzo 2021 a las 11:12"
             
 Calculadora()
